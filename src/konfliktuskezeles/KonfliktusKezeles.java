@@ -6,7 +6,7 @@ public class KonfliktusKezeles {
         int i = 7;
         String nev1 = "RD";
         String nev2 = "X. Y.";
-        int nev3;
+        String nev3;
     }
 
 }
